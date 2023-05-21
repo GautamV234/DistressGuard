@@ -31,7 +31,7 @@ To get started with DistressGuard, follow the instructions below:
 
 ## Demonstration
 
-Check out the following video to see DistressGuard in action: [![Demonstration]](https://www.youtube.com/watch?v=LkxIpZlHCCA)
+Check out the following video to see DistressGuard in action: [Demonstration](https://www.youtube.com/watch?v=LkxIpZlHCCA)
 
 
 ## Contributing
